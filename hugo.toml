@@ -39,19 +39,8 @@ hideSummary = false
 showtoc = false
 tocopen = false
 
-[params.giscus]
-repo = "hyuk-dev/hyuk-dev.github.io"
-repoID = "R_kgDONhIAig"
-category = "Announcements"
-categoryID = "DIC_kwDONhIAis4Clc4x"
-mapping = "og:title"
-dataStrict = "1"
-reactionsEnabled = "1"
-emitMetadata = "0"
-inputPosition = "bottom"
-theme = "preferred_color_scheme"
-lang = "ko"
-loading = "lazy"
+mainsections = ["page", "post", "archive", "search"]
+
 
 [params.assets]
 favicon = "./img/favicons/favicon.ico"
@@ -62,7 +51,7 @@ disableFingerprinting = true
 
 [params.label]
 text = "Hyuk Tech"
-icon = "/apple-touch-icon.png"
+icon = "./img/favicons/apple-touch-icon.png"
 iconHeight = 35
 
 [params.profileMode]
@@ -152,8 +141,3 @@ weight = 40
 
 [markup.highlight]
 noClasses = false
-
-[sitemap]
-changefreq = 'daily'
-filename = 'sitemap.xml'
-priority = 0.5
