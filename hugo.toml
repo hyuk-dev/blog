@@ -41,10 +41,10 @@ tocopen = false
 
 
 [params.assets]
-favicon = "./img/favicons/favicon.ico"
-favicon16x16 = "./img/favicons/favicon16x16.png"
-favicon32x32 = "./img/favicons/favicon32x32.png"
-apple_touch_icon = "./img/favicons/apple_touch_icon.png"
+favicon = "https://tech.hyuk.dev/img/favicons/favicon.ico"
+favicon16x16 = "https://tech.hyuk.dev/img/favicons/favicon16x16.png"
+favicon32x32 = "https://tech.hyuk.dev/img/favicons/favicon32x32.png"
+apple_touch_icon = "https://tech.hyuk.dev/img/favicons/apple_touch_icon.png"
 disableFingerprinting = true
 
 [params.label]
@@ -112,6 +112,9 @@ distance = 1_000
 threshold = 0.4
 minMatchCharLength = 0
 keys = [ "title", "permalink", "summary", "content" ]
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
 
 [[menu.main]]
 identifier = "archives"
