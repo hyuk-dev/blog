@@ -19,7 +19,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 ---
 
 (이 포스팅은 javascript 기준으로 작성되었습니다.)
