@@ -39,7 +39,7 @@ hideSummary = false
 showtoc = false
 tocopen = false
 
-mainsections = ["page", "post", "archive", "search"]
+# mainsections = ["page", "post", "archive", "search"]
 
 
 [params.assets]
