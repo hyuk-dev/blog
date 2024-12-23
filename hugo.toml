@@ -71,7 +71,7 @@ url = "tags"
 
 [params.homeInfoParams]
 Title = "안녕하세요!👋"
-Content = "저의 기술 블로그에 와주셔서 감사합니다."
+Content = "이동혁의 기술 블로그에 와주셔서 감사합니다."
 
 #   [[params.socialIcons]]
 #   name = "twitter"
