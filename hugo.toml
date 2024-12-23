@@ -142,3 +142,17 @@ weight = 40
 
 [markup.highlight]
 noClasses = false
+
+[params.giscus]
+repo = "hyuk-dev/hyuk-dev.github.io"
+repoID = "R_kgDONhIAig"
+category = "Announcements"
+categoryID = "DIC_kwDONhIAis4Clc4x"
+mapping = "og:title"
+dataStrict = "1"
+reactionsEnabled = "1"
+emitMetadata = "0"
+inputPosition = "bottom"
+theme = "preferred_color_scheme"
+lang = "ko"
+loading = "lazy"
