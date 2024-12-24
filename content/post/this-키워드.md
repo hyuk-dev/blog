@@ -39,7 +39,7 @@ console.log(hello.world());
 ```
 <br/>
 
-# 윈도우에서 this
+# 브라우저에서 this
 ```javascript
 function test(){
     return this;
@@ -49,6 +49,7 @@ console.log(window === test());
 // true
 ```
 위 코드를 브라우저에서 실행해보면, true가 출력됩니다.
+윈도우 로컬 환경에서 실행해보면, 글로벌 객체가 출력됩니다.
 
 <br />
 
