@@ -1,4 +1,4 @@
-baseURL = "https://hyuk-dev.github.io/"
+baseURL = "https://tech.hyuk.dev/"
 title = "Hyuk Tech"
 paginate = 5
 theme = "PaperMod"
