@@ -1,6 +1,6 @@
 ---
 title: 'Virtual DOM 정리노트'
-date: 2024-01-17T13:45:32+09:00
+date: 2025-01-17T13:45:32+09:00
 tags: ["javaScript"]
 author: "Lee"
 showToc: true
