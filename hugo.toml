@@ -15,11 +15,11 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Hyuk Tech"
+title = "이동혁 기술 블로그"
 description = "이동혁 기술 블로그"
 keywords = [ "Blog", "Portfolio", "Backend", "기술", "블로그" ]
 author = "Lee"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
+images = [ "https://tech.hyuk.dev/img/favicons/favicon.ico" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
